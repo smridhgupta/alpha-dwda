@@ -21,4 +21,4 @@ This project is only for educational purposes. I am not responsible for any misu
 # Contact
 smridhgupta@proton.me
 
-Developed by @smridh
+Developed by @smridhgupta @lavanye
