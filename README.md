@@ -2,7 +2,7 @@
 
 # Features
 
-This Script disables Windows Firewall, Device Protection and App and Browser Control.
+This Script disables Windows Firewall, Device Protection and App and Browser Control (Tested on Windows 11).
 
 # Usage
 
