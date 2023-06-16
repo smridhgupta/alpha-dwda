@@ -1,9 +1,11 @@
-# alpha-dwdaa
+# alpha-dwda
 Alpha Defeat Windows Defender and Anti-viruses
 
 # Features
 
 This Script disables Windows Defender, Windows Real time protection, Windows Firewall, Device Protection and App and Browser Control (Tested on Windows 11).
+
+The Anti-viruses it targets: Avast, AVG Anti-virus, BitDefender, Cisco, Comodo, Cylance PROTECT, ESET, F-Secure, Kaspersky, Malwarebytes, McAfee, Panda AntiVirus Titanium, PC Matic, Sophos, Symantec Endpoint Security, TrendMicro OfficeScan and Webroot Antispyware.
 
 # Usage
 
