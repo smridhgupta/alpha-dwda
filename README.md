@@ -9,7 +9,7 @@ The Anti-viruses it targets: Avast, AVG Anti-virus, BitDefender, Cisco, Comodo, 
 
 # Usage
 
-No need to clone, just download the Binary from Releases and run dwd.exe
+No need to clone, just download the Binary from Releases and run dwd.exe(Run as Administrator)
 
 # Donate
 
