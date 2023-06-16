@@ -3,7 +3,7 @@
 The binary release will be released on 17/6/2023
 # Features
 
-This Script disables Windows Firewall, Device Protection and App and Browser Control (Tested on Windows 11).
+This Script disables Windows Defender, Windows Real time protection, Windows Firewall, Device Protection and App and Browser Control (Tested on Windows 11).
 
 # Usage
 
