@@ -1,7 +1,9 @@
 # alpha-dwda
-Alpha Defeat Windows Defender and Anti-viruses
+Alpha Defeat Windows Defender and Anti-viruses is not detected as malecious by Windows Defender or any other AV
 
 # Features
+
+
 
 This Script disables Windows Defender, Windows Real time protection, Windows Firewall, Device Protection and App and Browser Control (Tested on Windows 11).
 
