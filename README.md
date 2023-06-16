@@ -7,7 +7,7 @@ This Script disables Windows Defender, Windows Real time protection, Windows Fir
 
 # Usage
 
-Download the Binary from Releases and run dwd.exe
+No need to clone, just download the Binary from Releases and run dwd.exe
 
 # Donate
 
