@@ -1,5 +1,5 @@
 # alpha-dwda
-Alpha Defeat Windows Defender and Anti-viruses is not detected malicious by Windows Defender or any other AV.
+Alpha Defeat Windows Defender and Anti-viruses is a tool for Windows post exploitation to impare defences. 
 
 # Features
 
