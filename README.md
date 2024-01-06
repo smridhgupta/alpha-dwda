@@ -15,8 +15,6 @@ No need to clone, just download the Binary from Releases and run dwd.exe(Run as 
 
 . BTC: bc1qykzfyjdkyck5v4sd46j4y8ra6mgltvu6zqu69s
 
-. XMR: 49RNZHq5kZJDJUK6RmnnxdhHwC7RNDTRM6VLj5ivsWiXGFXxdWFVJcHicrbY1TL4rn3fVhHGMNke4LmkJFVCsFuSEdcW47E
-
 # Warning
 
 This project is only for educational purposes. I am not responsible for any misuse!
